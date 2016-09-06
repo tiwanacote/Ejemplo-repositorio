@@ -1,0 +1,17 @@
+LDR													# Nombre
+Fotorresistor adquirido en Microelectrónicash		# Descripción
+1													# Puerto
+lineal												# Tipo de regresión
+3													# Parámetro A
+2													# Parámetro B
+4													# Parámetro C
+77													# Parámetro D
+0													# Parámetro E
+10													# Contador de ciclos hasta solicitar si hay un nuevo archivo de configuración
+5000												# Sampling Rate en milisegundos. 
+0													# Opcional
+0													# Opcional
+0													# Opcional
+0													# Opcional
+0													# Opcional
+
